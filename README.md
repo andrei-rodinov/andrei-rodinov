@@ -45,5 +45,5 @@
 ### ✍️ Контактные данные:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/an_rodinov) 
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=Mail.ru)](mailto:rodinov.andre@yandex.ru)
-[![Phone](https://img.shields.io/badge/-WhatsUp-black?style=for-the-badge&logo=WhatsApp)](https://wa.me/<79096558393>)
+[![Phone](https://img.shields.io/badge/-WhatsUp-black?style=for-the-badge&logo=WhatsApp)](https://wa.me/79096558393)
 
