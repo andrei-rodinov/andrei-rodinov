@@ -2,7 +2,7 @@
 
 # Привет, меня зовут Андрей!
 
-### 👨‍💻 Обо мне:
+### 💁 Обо мне:
 
 Я начинающий тестировщик и студент курса Яндекс.Практикум Full Stack QA Engeneer. 
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 📁 Инстументы:
+### ⚒️ Инстументы:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
@@ -41,7 +41,7 @@
 </div>
 
 
-### ✏️ Работа с кодом:
+### 👨‍💻 Работа с кодом:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -52,7 +52,7 @@
 
 ---
 
-### ✍️ Контактные данные:
+### 🪪 Контактные данные:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/an_rodinov) 
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=Mail.ru)](mailto:rodinov.andre@yandex.ru)
 [![Phone](https://img.shields.io/badge/-WhatsUp-black?style=for-the-badge&logo=WhatsApp)](https://wa.me/79096558393)
